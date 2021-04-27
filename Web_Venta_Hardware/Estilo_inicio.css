@@ -1,0 +1,32 @@
+#container {
+	width: 1200px;
+	height: 300px;
+	padding-left: 100px;
+	margin-left: 100px;
+	padding-top: 100px;
+	padding-bottom: 0;
+	background-color: palegreen;
+	border: 3px solid black;
+}
+
+#izquierdo {
+	width: 300px;
+    background-color: white;
+	border: 3px solid black;
+	float: right;
+}
+
+#central {
+	width: 300px;
+    background-color: white;
+	border: 3px solid black;
+	float: right;
+}
+
+#derecho {
+	width: 300px;
+    background-color: white;
+	border: 3px solid black;
+	float: right;
+
+}
